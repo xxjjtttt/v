@@ -1,6 +1,4 @@
-<script setup>
-const hehe = ref('hhehe');
-</script>
+<script setup></script>
 
 <template>
   <el-button>Default</el-button>
